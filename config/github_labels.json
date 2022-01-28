@@ -1,0 +1,62 @@
+[
+    {
+        "name": "bug",
+        "description": "Something isn't working",
+        "color": "--label-r:215;--label-g:58;--label-b:74;--label-h:353;--label-s:66;--label-l:53"
+    },
+    {
+        "name": "dotnet",
+        "description": null,
+        "color": "--label-r:56;--label-g:85;--label-b:47;--label-h:105;--label-s:28;--label-l:25"
+    },
+    {
+        "name": "dry",
+        "description": null,
+        "color": "--label-r:110;--label-g:147;--label-b:194;--label-h:213;--label-s:40;--label-l:59"
+    },
+    {
+        "name": "duplicate",
+        "description": "This issue or pull request already exists",
+        "color": "--label-r:207;--label-g:211;--label-b:215;--label-h:210;--label-s:9;--label-l:82"
+    },
+    {
+        "name": "help wanted",
+        "description": "Extra attention is needed",
+        "color": "--label-r:0;--label-g:134;--label-b:114;--label-h:171;--label-s:100;--label-l:26"
+    },
+    {
+        "name": "java",
+        "description": null,
+        "color": "--label-r:85;--label-g:67;--label-b:224;--label-h:246;--label-s:71;--label-l:57"
+    },
+    {
+        "name": "javascript",
+        "description": null,
+        "color": "--label-r:197;--label-g:222;--label-b:245;--label-h:208;--label-s:70;--label-l:86"
+    },
+    {
+        "name": "prioritised",
+        "description": null,
+        "color": "--label-r:75;--label-g:221;--label-b:193;--label-h:168;--label-s:68;--label-l:58"
+    },
+    {
+        "name": "python",
+        "description": null,
+        "color": "--label-r:171;--label-g:174;--label-b:23;--label-h:61;--label-s:76;--label-l:38"
+    },
+    {
+        "name": "refactoring",
+        "description": null,
+        "color": "--label-r:177;--label-g:139;--label-b:116;--label-h:22;--label-s:28;--label-l:57"
+    },
+    {
+        "name": "slide tweaks",
+        "description": null,
+        "color": "--label-r:0;--label-g:107;--label-b:117;--label-h:185;--label-s:100;--label-l:22"
+    },
+    {
+        "name": "tdd",
+        "description": null,
+        "color": "--label-r:69;--label-g:78;--label-b:91;--label-h:215;--label-s:13;--label-l:31"
+    }
+]
