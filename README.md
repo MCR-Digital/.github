@@ -1,1 +1,3 @@
-# .github
+[Manchester Digital](https://www.manchesterdigital.com/) is the trade body that represents Greater Manchester’s most forward-thinking and progressive digital and tech companies.
+
+MD provide a [Level 4 Software Developer Apprenticeship](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer-v1-1) which is delivered with the involvement of local employers. This GitHub organisation mostly holds training content related to that apprenticeship. Find out more about the [Manchester Digital Apprenticeship](https://www.manchesterdigital.com/software-developer-apprentices). You may also want to see the [summary of boot camps](https://github.com/MCR-Digital/summary-of-apprentice-boot-camps/blob/main/README.md) delivered.
